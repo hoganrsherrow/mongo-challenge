@@ -21,4 +21,6 @@ router
     .put(updateUser)
     .delete(deleteUser);
 
+// Post friend
+
 module.exports = router;
